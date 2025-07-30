@@ -130,5 +130,5 @@ This enables companies to:
 
 ---
 
-👩‍💻 Created by *Balqis Oniyide*
+👩‍💻 Created by *Balikisu Ajoke Oniyide*
 # Transportation-and-Logistics
